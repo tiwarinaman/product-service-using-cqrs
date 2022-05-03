@@ -8,7 +8,7 @@ product-service-using-cqrs is a event driven microservice with CQRS design patte
 ```java 
  java -jar axonserver.jar
 ```
-    The default port for Axon server is ***8024***
+ The default port for Axon server is ***8024***
  
  * Now you are good to go you can run the spring application
 
